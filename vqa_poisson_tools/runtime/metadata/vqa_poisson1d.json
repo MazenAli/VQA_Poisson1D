@@ -1,0 +1,107 @@
+{
+    "name": "vqa_poisson1d",
+    "description": "Variational quantum algorithm for the 1D Poisson equation.",
+    "max_execution_time": 10800,
+    "spec": {
+        "backend_requirements": {
+            "min_num_qubits": 2
+        },
+        "parameters": {
+            "$schema": "https://json-schema.org/draft/2019-09/schema",
+            "properties": {
+                "ansatz": {
+                    "type": "object",
+                    "description": "Parametrized quantum circuit for the ansatz (unbound parameters)."
+                    
+                },
+                "rhs": {
+                    "type": "object",
+                    "description": "Quantum circuit preparing the right hand side."
+                    
+                },
+                "circuits": {
+                    "type": "array",
+                    "description": "List of transpiled circuits for the Poisson VQA."
+                    
+                },
+                "sampler_options": {
+                    "type": "dictionary",
+                    "description": "Options to pass to the sampler."
+                },
+                "operator": {
+                    "type": "string",
+                    "description": "Method for estimating the operator part."
+                },
+                "innerp": {
+                    "type": "string",
+                    "description": "Method for estimating the inner product part."
+                },
+                "cost": {
+                    "type": "string",
+                    "description": "Type of cost function."
+                },
+                "exact": {
+                    "type": "boolean",
+                    "description": "Flag if all estimations are performed numerically exactly (StatevectorSimulator)."
+                },
+                "w_grad": {
+                    "type": "string",
+                    "description": "Flag if optimizer uses gradients."
+                },
+                "optimizer": {
+                    "type": "string",
+                    "description": "Classical optimization method (implemented in Qiskit)."
+                },
+                "optimizer_options": {
+                    "type": "dictionary",
+                    "description": "Options to pass to the optimizer."
+                },
+                "init_params": {
+                    "type": "array",
+                    "description": "Initial parameter vector."
+                }
+                
+            },
+            "additionalProperties": false,
+            "minProperties": 12
+        },
+        "return_values": {
+            "$schema": "https://json-schema.org/draft/2019-09/schema",
+            "properties": {
+                "result": {
+                    "type": "dictionary",
+                    "description": "Result of the optimization."
+                },
+                "energy_log": {
+                    "type": "list of dictionaries",
+                    "description": "History of all cost function evaluations."
+                },
+                "grad_log": {
+                    "type": "list of dictionaries",
+                    "description": "History of all gradient evaluations."
+                },
+                "hist_params": {
+                    "type": "list of arrays",
+                    "description": "List of all (accepted) parameter iterates."
+                }
+            }
+        },
+        "interim_results": {
+            "$schema": "https://json-schema.org/draft/2019-09/schema",
+            "properties": {
+                "iteration": {
+                    "type": "integer",
+                    "description": "Current iteration number."
+                },
+                "it time (s)": {
+                    "type": "float",
+                    "description": "Wall time (in seconds) from the current iteration."
+                },
+                "cum time (s)": {
+                    "type": "float",
+                    "description": "Cumulative wall time (in seconds) from the start of the optimization."
+                }
+            }
+        }
+    }
+}

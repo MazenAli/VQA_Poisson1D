@@ -1,0 +1,142 @@
+job_id,job_time,backend,shots,archt,qubits,layers,samples,rotations,entangler,mixer,driver,driver_per,initial_qaoa,sabre,mapomatic,DD
+fa1bb922-f6ba-4d24-bb3a-fc86de339fbe,"03/06/2022, 22:16:03",simulator,100,linear,"[1, 2, 3, 4]","[0, 1, 2, 3]",10,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+486b46f8-3764-4970-8688-4c4ced9f7d2f,"03/06/2022, 22:16:04",simulator,100,linear,"[1, 2, 3, 4]","[0, 1, 2, 3]",10,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629a77691e5d5e8606df6d82,"03/06/2022, 23:04:41",ibmq_lima,100,linear,"[1, 2]","[1, 2]",10,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629a828c22557e212a6486ee,"03/06/2022, 23:52:12",ibm_perth,100,linear,"[1, 2]","[1, 2]",10,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629a83df16ca601a4b7e1dd5,"03/06/2022, 23:57:51",ibm_perth,100,linear,"[1, 2]","[1, 2]",10,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629a847b16ca60b6d57e1ddd,"04/06/2022, 00:00:27",ibm_perth,100,linear,"[1, 2]","[1, 2]",10,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+c33a232a-b7f7-4523-9449-b2e57915b424,"04/06/2022, 00:54:39",simulator,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629a916101885c1ce4f34f2f,"04/06/2022, 00:55:29",ibmq_montreal,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629a917916ca6068d37e1e07,"04/06/2022, 00:55:53",ibmq_toronto,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629a9191a70e337fca6090cb,"04/06/2022, 00:56:17",ibmq_kolkata,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b596b22557e3ca5648b19,"04/06/2022, 15:08:59",ibmq_toronto,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b598ad624bee7e9c8aed0,"04/06/2022, 15:09:30",ibmq_kolkata,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+f8f9871f-9188-4e70-a6fd-53b0643f6596,"04/06/2022, 18:50:37",simulator,1000,linear,"[3, 5, 7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b964ba70e33b63c6096ad,"04/06/2022, 19:28:42",ibmq_montreal,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b9669a38471eb654514f4,"04/06/2022, 19:29:13",ibmq_mumbai,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b9681b675fc70a01724b9,"04/06/2022, 19:29:37",ibmq_guadalupe,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b96b5b4d2d30d6e78ba82,"04/06/2022, 19:30:29",ibmq_brooklyn,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b96e1b4d2d3c95e78ba86,"04/06/2022, 19:31:12",ibm_hanoi,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b970c22557e025b648cbc,"04/06/2022, 19:31:56",ibm_cairo,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b972ce66b183cc54d177a,"04/06/2022, 19:32:28",ibm_auckland,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b97e2d624be658ec8b0a9,"04/06/2022, 19:35:30",ibm_washington,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b985216ca6046d17e23c3,"04/06/2022, 19:37:22",ibmq_mumbai,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b9867c62352f6d59e2388,"04/06/2022, 19:37:43",ibmq_guadalupe,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b989416ca603c507e23c5,"04/06/2022, 19:38:28",ibmq_brooklyn,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b98a3a3847131304514fa,"04/06/2022, 19:38:43",ibmq_jakarta,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b9918e66b18d4f94d1787,"04/06/2022, 19:40:40",ibm_hanoi,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b992822557e41d8648cce,"04/06/2022, 19:40:56",ibm_lagos,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b9943a70e3389c26096c0,"04/06/2022, 19:41:23",ibm_cairo,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b995be66b18487f4d178b,"04/06/2022, 19:41:47",ibm_auckland,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b996ac6235274139e238f,"04/06/2022, 19:42:02",ibm_perth,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629b9a0c22557e33bf648cd4,"04/06/2022, 19:44:44",ibm_washington,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629ba1d21e829a717abbc2fd,"04/06/2022, 20:17:53",ibmq_ehningen,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629ba1fed5d782c4b9426edb,"04/06/2022, 20:18:38",ibmq_ehningen,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+80632100-d9d9-48c0-af26-a862571033f9,"04/06/2022, 21:37:34",simulator,1000,linear,[5],"[2, 3, 4, 5, 6, 7]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629bb4b716ca602ae57e2471,"04/06/2022, 21:38:31",ibmq_kolkata,1000,linear,[5],"[2, 3, 4, 5, 6, 7]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629bb5403493d159f32f5158,"04/06/2022, 21:40:48",ibmq_ehningen,1000,linear,[5],"[2, 3, 4, 5, 6, 7]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629bb81b292ca508c7a1dc19,"04/06/2022, 21:52:59",ibmq_ehningen,1000,linear,[5],"[8, 9, 10, 11, 12, 13]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+911e39b2-389c-4fd2-ba00-d9d97882d268,"04/06/2022, 21:57:15",simulator,1000,linear,[5],"[8, 9, 10, 11, 12, 13]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629bb958a38471e6a04515c7,"04/06/2022, 21:58:16",ibmq_kolkata,1000,linear,[5],"[8, 9, 10, 11, 12, 13]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f3d1001885cb8d9f36d82,"07/06/2022, 13:57:04",ibmq_jakarta,1000,linear,[7],"[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f3d1eba69a4335e5e81d2,"07/06/2022, 13:57:17",ibm_perth,1000,linear,[7],"[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f3fbe22557e24a564a58f,"07/06/2022, 14:08:30",ibm_lagos,1000,linear,[7],"[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f4173c62352218a9e3c06,"07/06/2022, 14:15:47",ibm_auckland,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f419bd624be1f50c8c873,"07/06/2022, 14:16:27",ibm_auckland,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f461ee66b1826944d3011,"07/06/2022, 14:35:42",ibmq_kolkata,1000,linear,[5],"[3, 4, 5, 6, 7, 8]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f465cb675fc6e18173d97,"07/06/2022, 14:36:44",ibmq_kolkata,1000,linear,[5],"[9, 10, 11, 12, 13]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+eb3623b8-1684-4f2a-8c72-0f48763ddc3e,"07/06/2022, 15:10:56",simulator,1000,linear_periodic,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f4eac292ca5f05ea1de97,"07/06/2022, 15:12:12",ibmq_ehningen,1000,linear_periodic,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+9ab491ca-cd32-4e6c-8449-b6adc683f56e,"07/06/2022, 15:12:05",simulator,1000,linear_periodic,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f4ef43493d1d9562f53b0,"07/06/2022, 15:13:24",ibmq_ehningen,1000,linear_periodic,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+d0200b2e-a3d9-43f1-9509-a16694920f14,"07/06/2022, 15:13:01",simulator,1000,linear_periodic,[5],"[12, 13]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f4f20292ca579a8a1de98,"07/06/2022, 15:14:08",ibmq_ehningen,1000,linear_periodic,[5],"[12, 13]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+401187db-04e3-449e-b61b-73cb6d0b6ba9,"07/06/2022, 15:15:41",simulator,1000,linear_alternating,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f4fc51e829a78a8bbc544,"07/06/2022, 15:16:53",ibmq_ehningen,1000,linear_alternating,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+1f19a402-a1e1-44ca-9a4f-b78cad80304f,"07/06/2022, 15:16:50",simulator,1000,linear_alternating,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f500e1e829a26cdbbc546,"07/06/2022, 15:18:06",ibmq_ehningen,1000,linear_alternating,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+4f2686e6-4f9f-4490-92b1-f84d61167bc7,"07/06/2022, 15:20:32",simulator,1000,linear_alternating_periodic,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f50eb292ca557a1a1de9a,"07/06/2022, 15:21:47",ibmq_ehningen,1000,linear_alternating_periodic,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+d95971c1-6e00-43c5-a6b4-86c2fca9ace2,"07/06/2022, 15:22:42",simulator,1000,linear_alternating_periodic_bidirectional,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f5173d5d78241494270f4,"07/06/2022, 15:24:03",ibmq_ehningen,1000,linear_alternating_periodic_bidirectional,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+95edc200-aed1-4ebe-b22a-8c5dee92986a,"07/06/2022, 15:31:20",simulator,1000,qaoa,[5],"[0, 2, 4, 6, 8, 10]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f53743493d159a02f53b3,"07/06/2022, 15:32:36",ibmq_ehningen,1000,qaoa,[5],"[0, 2, 4, 6, 8, 10]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+95049de7-bd52-4b56-a1ac-c5c7701e6a48,"07/06/2022, 15:32:50",simulator,1000,qaoa,[5],"[12, 14, 16, 18, 20, 22]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f53d73493d1fc3f2f53b4,"07/06/2022, 15:34:15",ibmq_ehningen,1000,qaoa,[5],"[12, 14, 16, 18, 20, 22]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+cc7ff91a-1f02-4dcb-815a-ac8c9f9a1219,"07/06/2022, 15:34:03",simulator,1000,qaoa,[5],"[24, 26, 28, 30, 32, 34]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f54301e829a5f29bbc549,"07/06/2022, 15:35:44",ibmq_ehningen,1000,qaoa,[5],"[24, 26, 28, 30, 32, 34]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+b852134f-2e1c-4016-91c6-bb9b83794368,"07/06/2022, 15:39:33",simulator,1000,qaoa_periodic,[5],"[0, 2, 4, 6, 8, 10]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f55353493d123c32f53b5,"07/06/2022, 15:40:05",ibmq_ehningen,1000,qaoa_periodic,[5],"[0, 2, 4, 6, 8, 10]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+8b716bc9-5659-4816-a74c-aa14b0b12ae4,"07/06/2022, 15:40:22",simulator,1000,qaoa_periodic,[5],"[12, 14, 16, 18, 20, 22]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f557ed5d78202ee4270fa,"07/06/2022, 15:41:17",ibmq_ehningen,1000,qaoa_periodic,[5],"[12, 14, 16, 18, 20, 22]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+57816c39-16f7-48a3-a7b0-6f2375886375,"07/06/2022, 15:41:41",simulator,1000,qaoa_periodic,[5],"[24, 26, 28, 30, 32, 34]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f55ed292ca50069a1dea2,"07/06/2022, 15:43:09",ibmq_ehningen,1000,qaoa_periodic,[5],"[24, 26, 28, 30, 32, 34]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+b0e5b550-a193-4220-bce8-2a48d53e420f,"07/06/2022, 15:44:47",simulator,1000,linear,[5],"[0, 1, 2, 3, 4, 5, 6]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+127021a6-9829-4cd5-b532-b96b7f78d571,"07/06/2022, 15:45:28",simulator,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+629f568b292ca5a4d9a1dea5,"07/06/2022, 15:45:47",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+300e8738-184e-41fc-97fa-32965d622bcf,"07/06/2022, 15:46:19",simulator,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+629f56c33493d1ef642f53b7,"07/06/2022, 15:46:43",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+89d116d1-0d5f-4b79-920f-992d744e8015,"07/06/2022, 15:49:33",simulator,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rx'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f5780d5d782282f4270ff,"07/06/2022, 15:49:52",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rx'],cx,rx,rzz,ryy,hadamards,True,True,False
+56bbe318-7521-4944-8bb1-de4d79b477ad,"07/06/2022, 15:49:59",simulator,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['rx'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f579dd5d78205cc427100,"07/06/2022, 15:50:21",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['rx'],cx,rx,rzz,ryy,hadamards,True,True,False
+7b51a7b6-1dd8-4fbd-a271-d164d9ddcab2,"07/06/2022, 15:50:37",simulator,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rz'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f57bc3493d18fd02f53ba,"07/06/2022, 15:50:52",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rz'],cx,rx,rzz,ryy,hadamards,True,True,False
+73b1f988-14fc-4bed-9281-3dc9ed8f33ab,"07/06/2022, 15:51:05",simulator,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['rz'],cx,rx,rzz,ryy,hadamards,True,True,False
+629f57d8d5d782e082427101,"07/06/2022, 15:51:20",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['rz'],cx,rx,rzz,ryy,hadamards,True,True,False
+47fe0e08-4b20-4497-93fd-b1d3a0c48d4c,"07/06/2022, 15:51:46",simulator,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,"['rx', 'ry', 'rz']",cx,rx,rzz,ryy,hadamards,True,True,False
+629f58071e829a2ae3bbc54d,"07/06/2022, 15:52:07",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,"['rx', 'ry', 'rz']",cx,rx,rzz,ryy,hadamards,True,True,False
+d8152451-ccdd-469a-bcb3-9e208cf4ee40,"07/06/2022, 15:53:08",simulator,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,"['rx', 'ry', 'rz']",cx,rx,rzz,ryy,hadamards,True,True,False
+629f585cd5d782d857427102,"07/06/2022, 15:53:32",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,"['rx', 'ry', 'rz']",cx,rx,rzz,ryy,hadamards,True,True,False
+62a088ba1e829acdcebbc6eb,"08/06/2022, 13:32:09",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+62a088d5d5d782711e427299,"08/06/2022, 13:32:36",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+62a094d91e829a539dbbc6f3,"08/06/2022, 14:23:53",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+62a094f53493d123432f5581,"08/06/2022, 14:24:21",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+62a09564d5d7821b6e4272a1,"08/06/2022, 14:26:12",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rx'],cz,rx,rzz,ryy,hadamards,True,True,False
+62a0957b1e829acfc2bbc6f5,"08/06/2022, 14:26:35",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['rx'],cz,rx,rzz,ryy,hadamards,True,True,False
+62a09bbdd5d782526d4272b3,"08/06/2022, 14:53:17",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rx'],cz,rx,rzz,ryy,hadamards,False,False,False
+62a09bd6d5d78233c44272b4,"08/06/2022, 14:53:42",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['rx'],cz,rx,rzz,ryy,hadamards,False,False,False
+62a09bfd292ca58e3da1e05c,"08/06/2022, 14:54:20",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rx'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a09c1d292ca57dfba1e05e,"08/06/2022, 14:54:53",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['rx'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a09c41d5d7821c9a4272b5,"08/06/2022, 14:55:29",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['rx'],cz,rx,rzz,ryy,hadamards,True,True,True
+62a09c61d5d78268894272b6,"08/06/2022, 14:56:01",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,True
+62a09c7a3493d160912f5597,"08/06/2022, 14:56:26",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,True
+62a09c9b3493d16a882f5598,"08/06/2022, 14:56:59",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a09cbc292ca5006ca1e05f,"08/06/2022, 14:57:32",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a09cc6292ca50b6ba1e060,"08/06/2022, 14:57:42",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,False,False,False
+62a09cd9292ca558a0a1e061,"08/06/2022, 14:58:01",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,False,False,False
+62a0a9631e829a0b5ebbc72a,"08/06/2022, 15:51:31",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+62a0a99a292ca5ef00a1e07d,"08/06/2022, 15:52:26",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+62a0b0d0d5d7823df64272e9,"08/06/2022, 16:23:12",ibmq_ehningen,1000,linear_periodic,[5],"[0, 1, 2, 3, 4, 5]",50,"['rx', 'ry', 'rz']",cx,rx,rzz,ryy,hadamards,True,False,False
+62a0b10c3493d11a322f55c4,"08/06/2022, 16:24:12",ibmq_ehningen,1000,linear_periodic,[5],"[0, 1, 2, 3, 4, 5]",50,"['rx', 'ry', 'rz']",cx,rx,rzz,ryy,hadamards,True,True,True
+62a0b6a8d5d782735d4272fd,"08/06/2022, 16:48:08",ibmq_ehningen,10,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0b6ce3493d146782f55e1,"08/06/2022, 16:48:46",ibmq_ehningen,10,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0b6e91e829a5f51bbc759,"08/06/2022, 16:49:13",ibmq_ehningen,100,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0b7011e829a355dbbc75b,"08/06/2022, 16:49:37",ibmq_ehningen,100,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0b79d3493d137812f55e4,"08/06/2022, 16:52:13",ibmq_ehningen,10000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0b7b8292ca5bb46a1e0a7,"08/06/2022, 16:52:40",ibmq_ehningen,10000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0b8e23493d1db1b2f55e7,"08/06/2022, 16:57:38",ibmq_ehningen,100000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0b8fa1e829a350cbbc75f,"08/06/2022, 16:58:01",ibmq_ehningen,100000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+45d18be1-606c-4015-9ba5-578c6a767726,"08/06/2022, 16:58:38",simulator,10,linear,[5],"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+13f1f512-ab6d-4877-b6c5-676246f665b5,"08/06/2022, 16:58:48",simulator,100,linear,[5],"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+9c8b52cc-c314-4933-a4c3-554ec689ed06,"08/06/2022, 16:59:03",simulator,1000,linear,[5],"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+f1a19c5d-8037-4f39-83ea-7aa1bf16ac3c,"08/06/2022, 16:59:12",simulator,10000,linear,[5],"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+8539f14c-7225-4571-95f5-dea83e600f76,"08/06/2022, 16:59:42",simulator,100000,linear,[5],"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0ba4f3493d1735e2f55e8,"08/06/2022, 17:03:43",ibmq_ehningen,10,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0ba6c3493d1207c2f55e9,"08/06/2022, 17:04:12",ibmq_ehningen,100,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0ba9a292ca5f890a1e0ab,"08/06/2022, 17:04:58",ibmq_ehningen,1000,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0bab1292ca5246ba1e0ac,"08/06/2022, 17:05:21",ibmq_ehningen,10000,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a0bac51e829a6befbbc761,"08/06/2022, 17:05:41",ibmq_ehningen,100000,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+238387b8-2f0e-49b9-b42e-98a1451ab4ea,"08/06/2022, 17:06:03",simulator,10,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+2ba64295-123d-45dc-94de-bd88872d7785,"08/06/2022, 17:06:19",simulator,100,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+df28e745-0d43-466a-a435-fdb1bac13dc5,"08/06/2022, 17:06:34",simulator,1000,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+c0a2f0dc-4692-46ea-a804-5f211046daa4,"08/06/2022, 17:06:45",simulator,10000,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+1e7f80fd-1e8f-431d-a731-d9884c1674d0,"08/06/2022, 17:07:44",simulator,100000,linear,[10],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62a61d16e3530c5a6ff29bf5,"12/06/2022, 19:06:30",ibmq_kolkata,1000,linear,[5],"[3, 4, 5, 6, 7, 8]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+62a61d39e3530c6678f29bf8,"12/06/2022, 19:07:04",ibmq_kolkata,1000,linear,[5],"[9, 10, 11, 12, 13]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+62ac8c0821544e1e7302a073,"17/06/2022, 16:13:28",ibmq_mumbai,1000,linear,"[3, 5]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+62ac8c2c22eb882eb7ab878c,"17/06/2022, 16:14:04",ibmq_mumbai,1000,linear,"[7, 10]","[0, 1, 2]",50,['ry'],cx,rx,rzz,ryy,hadamards,True,True,False
+62c1e9064368cc0b46cf13e0,"03/07/2022, 21:07:50",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62c1e9344368cc7574cf13e1,"03/07/2022, 21:08:36",ibmq_ehningen,1000,linear,[5],"[0, 1, 2, 3, 4, 5]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False
+62c1f0364368cc99c0cf13e3,"03/07/2022, 21:38:30",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,False,False
+62c1f06370abc21181b1e981,"03/07/2022, 21:39:15",ibmq_ehningen,1000,linear,[5],"[6, 7, 8, 9, 10, 11]",50,['ry'],cz,rx,rzz,ryy,hadamards,True,True,False

@@ -1,0 +1,7 @@
+Iteration,custom_tag,backend,cost_approx,cost_exact,cosine_sim,acc_cost_approx,acc_cost_exact,fidelities,fidelities_cost,fidelities_grad,archt,rhs,qubits,layers,parameters,seed_init,exact,shots,depth,cnots,operator,innerp,cost,optimizer,rotations,entangler,mixer,driver,driver_per,initial_qaoa,sabre,mapomatic,DD
+0,test_qasm,ibmq_qasm_simulator,98.88683414854407,103.70540904009341,0.9699686333229761,98.88683414854407,103.70540904009341,0.0023503468190869837,0.0023503468190869837,0.0023503468190869837,linear_alternating,hnx,5.0,3.0,29.0,0.0,False,100.0,13,0,SatoLiu21,HTest,Sato21_Nonnorm,L_BFGS_B,ry,cz,rx,rzz,ryy,hadamards,True,False,False
+1,,,50.86558508299852,59.049507126175406,0.9557088927682019,50.86558508299852,59.049507126175406,0.009543400767821574,0.009543400767821574,0.009543400767821574,,,,,,,,,17,2,,,,,,,,,,,,,
+2,,,37.94884332862953,32.8808267976301,0.9529072302048704,37.94884332862953,32.8808267976301,0.002265209407749628,0.002265209407749628,0.002265209407749628,,,,,,,,,18,3,,,,,,,,,,,,,
+3,,,,,,37.94884332862953,32.8808267976301,0.002265209407749628,,,,,,,,,,,19,4,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,20,5,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,145,59,,,,,,,,,,,,,

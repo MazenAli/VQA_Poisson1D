@@ -1,0 +1,7 @@
+,backend,innerp,rotations,new_shots,qubits,layers,mean,qae,qae_method,max_power
+0,ibmq_ehningen,HTest,['ry'],[1000],5,0,22.038667787749475,True,mlae,2
+1,ibmq_ehningen,HTest,['ry'],[1000],5,1,5.289041783401001,True,mlae,2
+2,ibmq_ehningen,HTest,['ry'],[1000],5,2,1.0406419043392814,True,mlae,2
+3,ibmq_ehningen,HTest,['ry'],[1000],5,3,1.042209306362025,True,mlae,2
+4,ibmq_ehningen,HTest,['ry'],[1000],5,4,1.214267338356927,True,mlae,2
+5,ibmq_ehningen,HTest,['ry'],[1000],5,5,1.0578995060331755,True,mlae,2

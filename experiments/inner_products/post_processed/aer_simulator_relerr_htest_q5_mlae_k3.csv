@@ -1,0 +1,7 @@
+,backend,innerp,rotations,qubits,layers,mean,qae,qae_method,max_power
+0,aer_simulator,HTest,['ry'],5,0,0.6353626458761412,True,mlae,4
+1,aer_simulator,HTest,['ry'],5,1,0.96850532510032,True,mlae,4
+2,aer_simulator,HTest,['ry'],5,2,0.1261250746827343,True,mlae,4
+3,aer_simulator,HTest,['ry'],5,3,0.0861721395393745,True,mlae,4
+4,aer_simulator,HTest,['ry'],5,4,0.0813166932958902,True,mlae,4
+5,aer_simulator,HTest,['ry'],5,5,0.0420304603238666,True,mlae,4

@@ -1,0 +1,6 @@
+,backend,operator,archt,qubits,layers,parameters,shots,samples,mean,std,cnots
+0,aer_simulator,constant,linear_alternating,5,3,29,10.0,18,0.3667132490614435,0.3977227134944462,0
+1,aer_simulator,constant,linear_alternating,5,3,29,100.0,18,0.3667132490614435,0.3977227134944462,0
+2,aer_simulator,constant,linear_alternating,5,3,29,1000.0,18,0.3667132490614435,0.3977227134944462,0
+3,aer_simulator,constant,linear_alternating,5,3,29,10000.0,18,0.3667132490614435,0.3977227134944462,0
+4,aer_simulator,constant,linear_alternating,5,3,29,100000.0,18,0.3667132490614435,0.3977227134944462,0

@@ -1,0 +1,6 @@
+,backend,cost,operator,rhs,qubits,layers,parameters,shots,samples,mean,p=50
+1,aer_simulator,Sato21_Nonnorm,SatoLiu21,hnx,5,3,29,10,50,0.7192613092939969,0.7592907701907579
+3,aer_simulator,Sato21_Nonnorm,SatoLiu21,hnx,5,3,29,100,50,0.9631199308893486,0.9671815517254216
+5,aer_simulator,Sato21_Nonnorm,SatoLiu21,hnx,5,3,29,1000,50,0.9961915546492328,0.9967205865097802
+7,aer_simulator,Sato21_Nonnorm,SatoLiu21,hnx,5,3,29,10000,50,0.9995993654478256,0.9996656706557684
+9,aer_simulator,Sato21_Nonnorm,SatoLiu21,hnx,5,3,29,100000,50,0.9999619650965418,0.9999693476629764

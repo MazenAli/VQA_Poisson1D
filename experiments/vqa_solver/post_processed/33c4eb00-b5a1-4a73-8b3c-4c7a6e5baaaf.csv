@@ -1,0 +1,3 @@
+Iteration,custom_tag,backend,cost_approx,cost_exact,cosine_sim,acc_cost_approx,acc_cost_exact,fidelities,fidelities_cost,fidelities_grad,archt,rhs,qubits,layers,parameters,seed_init,exact,shots,depth,cnots,operator,innerp,cost,optimizer,rotations,entangler,mixer,driver,driver_per,initial_qaoa,sabre,mapomatic,DD
+0,full_vqa_exact_bfgs_1,simulator,-6.795572422802066e-11,-6.795572422802066e-11,1.0000000000000002,-6.795572422802066e-11,-6.795572422802066e-11,0.001981869351136368,0.001981869351136368,0.001981869351136368,linear_alternating,hnx,5.0,0.0,5.0,6.0,True,1000.0,,,exact,Statevec,Sato21_Innerp,L_BFGS_B,ry,cz,rx,rzz,ryy,hadamards,True,False,False
+1,,,,,,-6.795572422802066e-11,-6.795572422802066e-11,0.001981869351136368,,,,,,,,,,,,,,,,,,,,,,,,,

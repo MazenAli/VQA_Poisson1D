@@ -1,0 +1,1 @@
+{"maxiter": 120, "reset_interval": 9}

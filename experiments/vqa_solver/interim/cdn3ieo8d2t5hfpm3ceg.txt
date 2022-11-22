@@ -1,0 +1,1 @@
+{'optimizer_options': {'blocking': 'True', 'learning_rate': 1, 'maxiter': 5, 'perturbation': 0.1, 'trust_region': 'True'}, 'learning rate': "<class 'int'>", 'perturbation': "<class 'float'>"}

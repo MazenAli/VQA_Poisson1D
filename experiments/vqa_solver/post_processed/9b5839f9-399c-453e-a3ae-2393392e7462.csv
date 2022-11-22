@@ -1,0 +1,7 @@
+Iteration,custom_tag,backend,cost_approx,cost_exact,cosine_sim,acc_cost_approx,acc_cost_exact,fidelities,fidelities_cost,fidelities_grad,archt,rhs,qubits,layers,parameters,seed_init,exact,shots,depth,cnots,operator,innerp,cost,optimizer,rotations,entangler,mixer,driver,driver_per,initial_qaoa,sabre,mapomatic,DD
+0,full_vqa_aer_bfgs_1,simulator,-2.2835394862036196e-05,-1.7874797964278793e-05,0.7709379715654748,-2.2835394862036196e-05,-1.7874797964278793e-05,0.0023503468190869837,0.0023503468190869837,0.0023503468190869837,linear_alternating,hnx,5.0,3.0,29.0,0.0,False,1000.0,13,0,SatoLiu21,HTest,Sato21_Innerp,L_BFGS_B,ry,cz,rx,rzz,ryy,hadamards,True,False,False
+1,,,-0.0036531020680453685,-0.0013890137753564881,0.9535628365256218,-0.00015506329113924077,-3.900404715919946e-05,0.002891608083730206,0.01687554086115319,0.01687554086115319,,,,,,,,,17,2,,,,,,,,,,,,,
+2,,,-0.00015506329113924077,-3.900404715919946e-05,,-0.00015506329113924077,-3.900404715919946e-05,0.002891608083730206,0.002891608083730206,0.002891608083730206,,,,,,,,,18,3,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,19,4,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,20,5,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,174,59,,,,,,,,,,,,,

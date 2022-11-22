@@ -1,0 +1,7 @@
+,backend,archt,rotations,qubits,layers,parameters,depth,cnots,mem,shots,p=50
+0,ibmq_ehningen,linear_alternating_periodic,['ry'],5,0,5,5,0,False,1000,0.989964033488042
+1,ibmq_ehningen,linear_alternating_periodic,['ry'],5,1,15,23,11,False,1000,0.9662017184499818
+2,ibmq_ehningen,linear_alternating_periodic,['ry'],5,2,25,38,22,False,1000,0.6901535919552365
+3,ibmq_ehningen,linear_alternating_periodic,['ry'],5,3,35,78,39,False,1000,0.7416927084565841
+4,ibmq_ehningen,linear_alternating_periodic,['ry'],5,4,45,73,56,False,1000,0.8379709812476395
+5,ibmq_ehningen,linear_alternating_periodic,['ry'],5,5,55,127,64,False,1000,0.6773163191942325

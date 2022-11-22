@@ -1,0 +1,4 @@
+,backend,innerp,rotations,qubits,layers,mean,qae,qae_method,max_power
+0,ibmq_ehningen,HTest,['ry'],5,0,214.004050443088,True,fae,3
+1,ibmq_ehningen,HTest,['ry'],5,1,527.2553584628838,True,fae,3
+2,ibmq_ehningen,HTest,['ry'],5,3,33.43138610995523,True,fae,3

@@ -1,0 +1,10 @@
+{"iteration": 0, "it time (s)": 7.402861833572388, "cum time (s)": 7.402861833572388}
+{"iteration": 1, "it time (s)": 3.6676416397094727, "cum time (s)": 11.07050347328186}
+{"iteration": 2, "it time (s)": 4.696041822433472, "cum time (s)": 15.766545295715332}
+{"iteration": 3, "it time (s)": 3.7407736778259277, "cum time (s)": 19.50731897354126}
+{"iteration": 4, "it time (s)": 2.956813097000122, "cum time (s)": 22.464132070541382}
+{"iteration": 5, "it time (s)": 6.53048849105835, "cum time (s)": 28.99462056159973}
+{"iteration": 6, "it time (s)": 10.220789909362793, "cum time (s)": 39.215410470962524}
+{"iteration": 7, "it time (s)": 8.896441221237183, "cum time (s)": 48.11185169219971}
+{"iteration": 8, "it time (s)": 5.763291597366333, "cum time (s)": 53.87514328956604}
+{"iteration": 9, "it time (s)": 7.024062395095825, "cum time (s)": 60.899205684661865}

@@ -1,0 +1,13 @@
+,backend,archt,rotations,entangler,qubits,layers,parameters,depth,cnots,mem,shots,p=50
+0,ibmq_ehningen,linear,['rz'],cx,5,0,5,2,0,False,1000,0.966
+1,ibmq_ehningen,linear,['rz'],cx,5,1,10,7,4,False,1000,0.9545
+2,ibmq_ehningen,linear,['rz'],cx,5,2,15,10,8,False,1000,0.9355
+3,ibmq_ehningen,linear,['rz'],cx,5,3,20,13,12,False,1000,0.9245
+4,ibmq_ehningen,linear,['rz'],cx,5,4,25,16,16,False,1000,0.916
+5,ibmq_ehningen,linear,['rz'],cx,5,5,30,19,20,False,1000,0.904
+6,ibmq_ehningen,linear,['rz'],cx,5,6,35,22,24,False,1000,0.8945000000000001
+7,ibmq_ehningen,linear,['rz'],cx,5,7,40,25,28,False,1000,0.8879999999999999
+8,ibmq_ehningen,linear,['rz'],cx,5,8,45,28,32,False,1000,0.878
+9,ibmq_ehningen,linear,['rz'],cx,5,9,50,31,36,False,1000,0.8699999999999999
+10,ibmq_ehningen,linear,['rz'],cx,5,10,55,34,40,False,1000,0.8614999999999999
+11,ibmq_ehningen,linear,['rz'],cx,5,11,60,37,44,False,1000,0.853

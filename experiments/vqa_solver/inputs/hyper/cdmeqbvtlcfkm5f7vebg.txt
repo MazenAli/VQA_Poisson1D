@@ -1,0 +1,1 @@
+{"maxiter": 5, "blocking": "True", "trust_region": "True", "learning_rate": 1.0, "perturbation": 0.1}

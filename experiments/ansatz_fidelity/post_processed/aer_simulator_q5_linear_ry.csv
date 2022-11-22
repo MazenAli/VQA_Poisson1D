@@ -1,0 +1,15 @@
+,backend,archt,rotations,qubits,layers,parameters,depth,cnots,mem,shots,p=50
+0,aer_simulator,linear_periodic,['ry'],5,0,5,2,0,False,1000,0.9922654206046144
+1,aer_simulator,linear_periodic,['ry'],5,1,10,8,5,False,1000,0.9919522773655652
+2,aer_simulator,linear_periodic,['ry'],5,2,15,14,10,False,1000,0.9915247295483152
+3,aer_simulator,linear_periodic,['ry'],5,3,20,20,15,False,1000,0.9927551108545428
+4,aer_simulator,linear_periodic,['ry'],5,4,25,26,20,False,1000,0.9915511134960794
+5,aer_simulator,linear_periodic,['ry'],5,5,30,32,25,False,1000,0.9913554085979556
+6,aer_simulator,linear_periodic,['ry'],5,6,35,38,30,False,1000,0.9923963885905308
+7,aer_simulator,linear_periodic,['ry'],5,7,40,44,35,False,1000,0.9918284826225644
+8,aer_simulator,linear_periodic,['ry'],5,8,45,50,40,False,1000,0.991853943296484
+9,aer_simulator,linear_periodic,['ry'],5,9,50,56,45,False,1000,0.991603938229387
+10,aer_simulator,linear_periodic,['ry'],5,10,55,62,50,False,1000,0.9914542152817568
+11,aer_simulator,linear_periodic,['ry'],5,11,60,68,55,False,1000,0.9912989029668122
+12,aer_simulator,linear_periodic,['ry'],5,12,65,74,60,False,1000,0.9914483973943068
+13,aer_simulator,linear_periodic,['ry'],5,13,70,80,65,False,1000,0.991981268793868

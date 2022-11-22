@@ -1,0 +1,13 @@
+,backend,archt,rotations,qubits,layers,parameters,depth,cnots,mem,shots,p=50
+0,aer_simulator,linear_alternating,['ry'],5,0,5,2,0,False,1000,0.9928361077368154
+1,aer_simulator,linear_alternating,['ry'],5,1,13,6,4,False,1000,0.9922023341912488
+2,aer_simulator,linear_alternating,['ry'],5,2,21,10,8,False,1000,0.9909330629010786
+3,aer_simulator,linear_alternating,['ry'],5,3,29,14,12,False,1000,0.992071201241457
+4,aer_simulator,linear_alternating,['ry'],5,4,37,18,16,False,1000,0.9912408390674928
+5,aer_simulator,linear_alternating,['ry'],5,5,45,22,20,False,1000,0.9917229281789646
+6,aer_simulator,linear_alternating,['ry'],5,6,53,26,24,False,1000,0.9919553176486052
+7,aer_simulator,linear_alternating,['ry'],5,7,61,30,28,False,1000,0.9920908457653036
+8,aer_simulator,linear_alternating,['ry'],5,8,69,34,32,False,1000,0.9910211477347152
+9,aer_simulator,linear_alternating,['ry'],5,9,77,38,36,False,1000,0.9920647892800454
+10,aer_simulator,linear_alternating,['ry'],5,10,85,42,40,False,1000,0.992276691575476
+11,aer_simulator,linear_alternating,['ry'],5,11,93,46,44,False,1000,0.991643248006371

@@ -1,0 +1,6 @@
+,backend,operator,archt,qubits,layers,parameters,shots,samples,mean,std
+0,aer_simulator,Paulis,linear_alternating,2,3,8,1000,18,0.0149512278670275,0.0122731915850455
+1,aer_simulator,Paulis,linear_alternating,3,3,15,1000,18,0.0117993995757304,0.0110151581502143
+2,aer_simulator,Paulis,linear_alternating,4,3,22,1000,18,0.0204201033828898,0.0257491199173607
+3,aer_simulator,Paulis,linear_alternating,5,3,29,1000,18,0.0223074570270637,0.0239976335124988
+4,aer_simulator,Paulis,linear_alternating,7,3,43,1000,18,0.0151319525722296,0.0097841691017255

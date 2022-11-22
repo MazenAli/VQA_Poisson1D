@@ -1,0 +1,6 @@
+,backend,operator,archt,qubits,layers,parameters,shots,samples,mean,std,cnots
+0,ibmq_ehningen,SatoLiu21,linear_alternating,5,3,29,10.0,18,0.160308008976051,0.1202220396634211,20
+1,ibmq_ehningen,SatoLiu21,linear_alternating,5,3,29,100.0,18,0.0926023161573081,0.0765655520253124,20
+2,ibmq_ehningen,SatoLiu21,linear_alternating,5,3,29,1000.0,18,0.1663414682176346,0.0860803967759075,20
+3,ibmq_ehningen,SatoLiu21,linear_alternating,5,3,29,10000.0,18,0.0638447150193042,0.0669901808034534,20
+4,ibmq_ehningen,SatoLiu21,linear_alternating,5,3,29,100000.0,18,0.0672886208344228,0.0710829500407325,20

@@ -1,0 +1,7 @@
+,backend,operator,archt,qubits,layers,parameters,shots,samples,mean,std
+0,aer_simulator,SatoLiu21_efficient,linear,5,0,5,1000,18,0.0129838636741278,0.0081512652684231
+1,aer_simulator,SatoLiu21_efficient,linear,5,2,15,1000,18,0.0160372569839173,0.0132890654741248
+2,aer_simulator,SatoLiu21_efficient,linear,5,3,20,1000,18,0.0157799893536735,0.0100491262150904
+3,aer_simulator,SatoLiu21_efficient,linear,5,4,25,1000,18,0.0143946494393986,0.0109726404466696
+4,aer_simulator,SatoLiu21_efficient,linear,5,5,30,1000,18,0.0150634152644995,0.0130282920256626
+5,aer_simulator,SatoLiu21_efficient,linear,5,6,35,1000,18,0.012904083369127,0.0077022443174664

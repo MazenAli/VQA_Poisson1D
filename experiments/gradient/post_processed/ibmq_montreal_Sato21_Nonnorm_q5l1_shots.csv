@@ -1,0 +1,5 @@
+,backend,cost,operator,rhs,qubits,layers,parameters,shots,samples,mean,p=50
+0,ibmq_montreal,Sato21_Nonnorm,SatoLiu21,hnx,5,1,13,10,10,0.7955856388111958,0.8294669712475665
+1,ibmq_montreal,Sato21_Nonnorm,SatoLiu21,hnx,5,1,13,100,10,0.9669013586551574,0.9696160547645112
+2,ibmq_montreal,Sato21_Nonnorm,SatoLiu21,hnx,5,1,13,1000,10,0.9865817062385398,0.9901358332698836
+3,ibmq_montreal,Sato21_Nonnorm,SatoLiu21,hnx,5,1,13,10000,10,0.9887587823739086,0.9905339723638392

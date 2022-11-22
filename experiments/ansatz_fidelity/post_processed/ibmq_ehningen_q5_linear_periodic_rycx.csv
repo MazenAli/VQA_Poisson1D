@@ -1,0 +1,15 @@
+,backend,archt,rotations,qubits,layers,parameters,depth,cnots,mem,shots,p=50
+0,ibmq_ehningen,linear_periodic,['ry'],5,0,5,5,0,False,1000,0.9905802649453954
+1,ibmq_ehningen,linear_periodic,['ry'],5,1,10,24,11,False,1000,0.9241701147298788
+2,ibmq_ehningen,linear_periodic,['ry'],5,2,15,46,28,False,1000,0.8190662524364065
+3,ibmq_ehningen,linear_periodic,['ry'],5,3,20,75,45,False,1000,0.6937186414028103
+4,ibmq_ehningen,linear_periodic,['ry'],5,4,25,102,62,False,1000,0.6672211473633504
+5,ibmq_ehningen,linear_periodic,['ry'],5,5,30,134,81,False,1000,0.6344757638485475
+6,ibmq_ehningen,linear_periodic,['ry'],5,6,35,158,98,False,1000,0.6475452667304803
+7,ibmq_ehningen,linear_periodic,['ry'],5,7,40,170,113,False,1000,0.6552676488006238
+8,ibmq_ehningen,linear_periodic,['ry'],5,8,45,195,134,False,1000,0.6478687844257948
+9,ibmq_ehningen,linear_periodic,['ry'],5,9,50,238,153,False,1000,0.6452765484979821
+10,ibmq_ehningen,linear_periodic,['ry'],5,10,55,237,168,False,1000,0.6503639418450671
+11,ibmq_ehningen,linear_periodic,['ry'],5,11,60,283,187,False,1000,0.6322740734859231
+12,ibmq_ehningen,linear_periodic,['ry'],5,12,65,314,197,False,1000,0.6163464099364402
+13,ibmq_ehningen,linear_periodic,['ry'],5,13,70,327,223,False,1000,0.6321988101072278

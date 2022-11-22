@@ -1,0 +1,6 @@
+,backend,operator,archt,qubits,layers,parameters,shots,samples,mean,std,cnots
+0,ibmq_ehningen,Paulis,linear_alternating,5,3,29,10.0,18,0.4943595186393966,0.4763925882099118,12
+1,ibmq_ehningen,Paulis,linear_alternating,5,3,29,100.0,18,0.4379873187578054,0.3150251997076193,12
+2,ibmq_ehningen,Paulis,linear_alternating,5,3,29,1000.0,18,0.1773185222641868,0.0807348211793272,12
+3,ibmq_ehningen,Paulis,linear_alternating,5,3,29,10000.0,18,0.4002638303152326,0.2914751885339838,12
+4,ibmq_ehningen,Paulis,linear_alternating,5,3,29,100000.0,18,0.4020673653923783,0.2954065368568404,12
